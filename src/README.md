@@ -23,8 +23,10 @@ A simple Todo List application built with React and Vite.
 
 3. Install dependencies:
    npm install
+##Live demo
+https://wilfred123816.github.io/Todo-List-App/
 
-4. Run the app:
+5. Run the app:
    npm run dev
 
 ## Author
